@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of Ambras Merlins, standardbearer wolf, and last boar of Cornwal with sundry other misterious prophecys, both ancient and modern, plainly unfolded in the following treatise, on the signification and portent of that prodigious comet, seen by most part of the world, anno 1680, with the blazing star anno 1682, and the conjunctions of Saturn and Jupiter in October following and since : all which do purport many sad calamitys to befall most parts of the Europian [sic] continent in general before the year 1699, ... the ruin of the House of Austria, Vienna, and the Empire of Germany : with Rome, Italy, and the Pope and Papicy [sic], the king and kingdom of France, with several other countrys [sic] in Europe, and the danger of an invation [sic] in England by the Turks, and then the convertion [sic] of the said nation to the Christian faith, before this present expedition of the Turks into Hungary and Germany be over, which will be followed, (1) with the calling of the Jews, (2) the reducing of all wayes of religious worship into one by which an universal peace will ensue to all the earth / written by a lover of his country's peace, Anno Domini, 1683.</title>
+            <author>Lover of his country's peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51677</idno>
+            <idno type="STC">Wing M3182</idno>
+            <idno type="STC">ESTC R10135</idno>
+            <idno type="EEBO-CITATION">13111673</idno>
+            <idno type="OCLC">ocm 13111673</idno>
+            <idno type="VID">97681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of Ambras Merlins, standardbearer wolf, and last boar of Cornwal with sundry other misterious prophecys, both ancient and modern, plainly unfolded in the following treatise, on the signification and portent of that prodigious comet, seen by most part of the world, anno 1680, with the blazing star anno 1682, and the conjunctions of Saturn and Jupiter in October following and since : all which do purport many sad calamitys to befall most parts of the Europian [sic] continent in general before the year 1699, ... the ruin of the House of Austria, Vienna, and the Empire of Germany : with Rome, Italy, and the Pope and Papicy [sic], the king and kingdom of France, with several other countrys [sic] in Europe, and the danger of an invation [sic] in England by the Turks, and then the convertion [sic] of the said nation to the Christian faith, before this present expedition of the Turks into Hungary and Germany be over, which will be followed, (1) with the calling of the Jews, (2) the reducing of all wayes of religious worship into one by which an universal peace will ensue to all the earth / written by a lover of his country's peace, Anno Domini, 1683.</title>
+                  <author>Lover of his country's peace.</author>
+               </titleStmt>
+               <extent>4 p. : 1 ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Billingsley ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:97681:1"/>
+            <head>The Myſtery of <hi>Ambras Merlins, Standardbearer Wolf.</hi> and laſt <hi>Boar</hi> of <hi>Cornwal.</hi>
+            </head>
+            <argument>
+               <p>With ſundry other <hi>Miſterious Prophecys,</hi> both Ancient and Modern, plainly unfolded in the following treatiſe, on the ſignification and portent of that prodigious <hi>Comet,</hi> ſeen by moſt part of the World <hi>Anno</hi> 1680 with the Blazing Star <hi>Anno</hi> 1682, and the conjunctions of <hi>Saturn</hi> and <hi>Jupiter</hi> in October following, and ſince, all which do purport many ſad calamites to befall moſt parts of the Europian continent in ge<g ref="char:EOLhyphen"/>neral before the year 1699. ſome ſooner then others, but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Ore perticulerly the ruin of the houſe of <hi>Auſtria, Vienna,</hi> and the Empire of <hi>Germany,</hi> with <hi>Rome, Italy</hi> and the <hi>Pope</hi> and <hi>Papicy,</hi> the King and Kingdom of <hi>France,</hi> with ſeve<g ref="char:EOLhyphen"/>ral oth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Countrys in <hi>Europe,</hi> and the danger of an invation in <hi>England</hi> by the <hi>Turks,</hi> and then the convertion of the ſaid Nation to the <hi>Chriſtian</hi> faith, before this preſent expedition of the <hi>Turks</hi> into <hi>Hungary</hi> and <hi>Germany</hi> be over, whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h will be followed.
+<list>
+                     <item>(1) with the calling of the <hi>Iews,</hi>
+                     </item>
+                     <item>(2) the reducing of all wayes of Religious Worſhip in to the by which an univerſal peace will enſue to all the Earth.</item>
+                  </list>
+               </p>
+            </argument>
+            <byline>
+               <hi>Written by a Lover of his Country's Peace,</hi> Anno Domini, 1683.</byline>
+            <p>THe Situation, Dimention, Complexion and natural Comixture of the ſaid Comet, Blazing Star and Conjuction, having been treated on at large by o<g ref="char:EOLhyphen"/>thers before, ſhall ſave my Time and Pains in that kind now—and being (after the firſt Appearance of the ſaid Star) enquired of by ſome of my Neighbours concerning its Signification, I then told them, <hi>That it ſignified much to</hi> Scot<g ref="char:EOLhyphen"/>land <hi>&amp;</hi> Ireland, <hi>&amp; but little to us here in</hi> England—but when by my noctural obſervation of it afterward I ſaw the great aſcents it made towards the North-pole, in ſo much that it was more Southward thereof by its laſt appearance, then it was Northward of it at the firſt—for which cauſe, I then told my ſaid Neighbours, <hi>that I feared it might ſignify more to us with many Countrys Eaſt South and Weſt of us, then it would either</hi> Scotland <hi>or</hi> Ireland, <hi>but that it would begin to Opperate in</hi> Scotland <hi>firſt, and with our ſelves hear ſoon after.</hi>
+            </p>
+            <p>And if I be not too much miſtaken in its ſignification, together with that of the <hi>Comet</hi> and conjunctions, viz. <hi>Religion</hi> &amp; <hi>dominion,</hi> Rule and Government both in Church and State, with many other things beſides, but eſpecially in matters of <hi>Religion,</hi> and <hi>Religi<g ref="char:EOLhyphen"/>ous</hi> things, which may conduce to make moſt parts of <hi>Europe</hi> deeply ſenſible of many ſad calamitys ready to befall them; which being granted—then I think that <hi>Scotland</hi> is made very ſenſible thereof already and our ſelves too much; and not all neither: and who knows but that it may be ſo in <hi>Ireland</hi> by this time alſo, as many places elſe may do ſoon after us, for the Comet and Star, being wholy <hi>Saturnin,</hi> and the Conjunctions being ſo in a great part alſo, What may be expected leſs then that the Effects ſhould be according to the cauſe? And the rather conſidering how unluckily Tory <hi>Mars</hi> was poſited ſo near the conjunction in October laſt; that look what malevolent <hi>Saturn</hi> ſhould Enviouſly and Subtilly ſuggeſt, and benevolent <hi>Jupiter</hi> might peradventer unwillingly conſent unto, <hi>Mars</hi> ſtood by furiouſly, reſolved to put it on Soldier like, <hi>vi et armis</hi>—And then <hi>Saturn</hi> parting ſo ſlowly from <hi>Jupiter</hi> doth preſage the longer continuance of our miſerys when they come.</p>
+            <p>Which kind of Calamity (be they what they will) are like to be brought upon us <hi>Proteſtants</hi> by a <hi>Saturnine</hi> Sect, or ſort of People, and their Adherents, as all ſuch may be truly called who wed their Intereſt, and do their Work, whoſe Religion may be lit<g ref="char:EOLhyphen"/>tle better than that of the <hi>Papiſts</hi> or <hi>Turks,</hi> as ſhall be ſeen anon; all which occurs into my mind a <hi>Prediction</hi> of <hi>Noſtredamus,</hi> quoted by M<hi rend="sup">r</hi>. <hi>Gadbury</hi> in his <hi>Almanack; Ann.</hi> 1679.</p>
+            <p>
+               <q>
+                  <l>When <hi>Venus</hi> ſhall a Prince and Empire raiſe,</l>
+                  <l>And <hi>ove</hi>'s conſtrain'd to give dull <hi>Saturn</hi> Praiſe;</l>
+                  <l>Then ſhall the Laws and Powers, <hi>Jove</hi> did erect,</l>
+                  <l>Strike Sale, and bow to a <hi>Saturnine</hi> Sect.</l>
+               </q>
+It may concern us too much, though <hi>Gadhury</hi> did cantingly ſay Not.</p>
+            <p>Then in the next place, take one of Mr. <hi>Lillys</hi> in his <hi>Engliſh Merlin,</hi> pag. 25. viz. <hi>I judge that privately by Lyes, Treacheries, feigned and diſſembled Treaties, and Embaſſadours, and by the policies of a Jeſuitical faction all over</hi> Europe, <hi>the true Proteſtant Religion will be infinitely diſtreſſed, and the Heavenly intentions impedited, and all thoſe Countrys profeſſing Proteſtantiſm exceedingly moleſted, by ſo great a compact of Villains and falſe hearted Traytors;
+<pb n="2" facs="tcp:97681:2"/>lurking in the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>foms and cloſets of Princes, that many ſhall think that Popery ſhall return to its old Seat in every Country.</hi> By which it may appear, where and by whom the Pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtant Religion is like to be put in danger, more then by the Diſſenters. In favour of which ſaid <hi>Saturnin</hi> People, ſome men give themſelves to do like a ſort of <hi>People living in King</hi> Davids <hi>time,</hi> of whom he ſaith, <hi>Pſalm.</hi> 37.14. <hi>The Wicked bend their Bow, and make their Arrow ready on the ſtring to ſhoot in Secret and to hurt thoſe of an Upright Converſation,</hi> and verſe 32. <hi>the Wicked watcheth the Righteous, and ſeeketh to ſlay Him;</hi> it was of ſuch men that <hi>David</hi> ſpake in <hi>verſ.</hi> 12. ſaying, <hi>ſave me from the Bloody Man, for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sins of their Mouths and the words of their Lips, even for their Perjury and Lyes, let them be taken in their own Pride.</hi>
+            </p>
+            <p>Of this ſort of Men it was Mr. <hi>Lilly</hi> did ſo aptly predict in his Almanack for 1681. ſay<g ref="char:EOLhyphen"/>ing, <hi>There are a diſſatisfyed People amongſt us, that too frequently endeavour to Poyſon the minds of the People, to promote their own deſigns, and are animated therein by Perſons of no mean Qua<g ref="char:EOLhyphen"/>lity</hi>—which ſeems to be truly predicted, witneſs that unparalelled &amp; monſtrous preſent<g ref="char:EOLhyphen"/>ment, made to the Juſtices at the Bridge-houſe in <hi>January</hi> laſt at Seſſions there; putting the Proteſtant-Diſſenters equally Criminal with Papiſts; but thoſe men taking little notice of the late Lord Chancellors well worded ſpeech to the Parliament Anno. 1678/9, <hi>that it would be neceſſary to diſtinguiſh between Popiſh-Recuſants that would deſtroy the Church, and other Recuſants that only wander from the Church</hi>—we leave them to learn to diſtinguiſh better if the Papiſts come to ſit at helm to ſtear the Ship.</p>
+            <p>Its no ſmall wonder to me that ſuch men ſhould be ſo Brutiſh, as not to take any more notice of the many warnings God gives us now and of late years; or can they think that God did light that prodigious Comet in the heavens in 1680. and the Star ſince only for the world to gaze on and wonder at?—or may we not all rather fear that he ſeeth ſome crying ſins reigning amongſt us mortals that he would have us turn from, or otherwiſe he will Puniſh us for, and therefore mercifully warns us before hand of? Amongſt which crying ſins the preſent Perſecution may be one; which ſome may not think to be a ſin, becauſe its authorized by a Law—but it may not be a jot the leſs a ſin for that, in which like caſe, King <hi>David</hi> put a Query ſaying, <hi>hath the throne of Iniquity fellowſhip with thee that forgeth wrong for a Law?</hi>
+            </p>
+            <p>And ſo for Subbornation, Perjury, Atheiſm, and others as bad, but for the ſaid Per<g ref="char:EOLhyphen"/>ſecution it is ſuch as hath not been preſidented by any ſince the publiſhing the Goſpel of Peace; unleſs by the Roman Heathen Emperours, againſt the Apoſtles and Pri<g ref="char:EOLhyphen"/>mitive Chriſtians in thoſe times; and the Papiſts againſt the Proteſtants in all times ſince.</p>
+            <p>And what preſidents theſe are for Proteſtants to follow againſt each other, let the reformed churches abroad judge, which again occurs into my mind another prediction of Mr. <hi>Lilly</hi> in his Almanack 1681. ſaying, <hi>thoſe pretending to Religion, whether Papiſts or Seditious, will ſhew but little pitty or compaſſion on thoſe, whoſe unhappineſs it may be to fall under their Subjection.</hi>
+            </p>
+            <p>Haveing thus ſparingly hinted at a few of thoſe crying ſins reigning amongſt us, let us look back to ſee the effects that may follow, and firſt with reſpect to our ſelves in this Nation, who according to the judgements of the Antients, the experience of later Ages, and the preſent apprehenſions of ſome Sages yet living amongſt us, as well as of ſome lately dead, on ſuch configurations as we now treat on, may expect great changes and alterations in Government, with other calamitys beſides,
+<list>
+                  <item>(1) but God grant we meet with no change of Governours, leſt it prove for the worſe, nor yet by any undue means.</item>
+                  <item>(2) nor ſecondly, any peſtilentical Plague, as in ſixty five.</item>
+                  <item>(3) nor ſuch a dreadful burning of houſes as in ſixty ſix, though we have had many burnt ſince.—</item>
+                  <item>(4) fourth<g ref="char:EOLhyphen"/>ly, nor a ſcarcity of grain and other fruits of the Earth, to pine the Poor with hunger as in ſome time paſt, ſo long threatned, and may now be feared.</item>
+                  <item>(5) nor an innovation of Popery into the Church, whereby the eſtabliſhed Religion in the Nation (of which we ſo much boaſt) may be thruſt aſide if not ſubverted, when the Miniſters and Teach<g ref="char:EOLhyphen"/>ers thereof may be removed into corners, and be glad of Private houſes to preach in then for fear of the Papiſts, as the Non-conformiſts are for fear of ſome of them now.</item>
+                  <item>(6) nor any breakings out amongſt our ſelves to the cutting each others throats, as
+<pb n="3" facs="tcp:97681:2"/>the fruits of our preſent diviſions; ſo little taken notice of unleſs by ſuch as rejoyce thereat, having been the chief fomenters thereof.</item>
+                  <item>(7) laſtly, nor an invation of an E<g ref="char:EOLhyphen"/>nemy from a very far off, ſo little thought on and leſs feared.</item>
+               </list>
+            </p>
+            <p>Some of which ſaid diſaſtreous calamitys may be brought upon us, and moſt Pro<g ref="char:EOLhyphen"/>teſtant Countrys in Europe, firſt, by that <hi>Saturnin</hi> People and their Adherents, as was ſaid before, but God grant it be not attempted by Bloody Butcherings, as was once de<g ref="char:EOLhyphen"/>ſigned and ſtill feared, and then look what the ſaid people come ſhort of bringing on us Proteſtants, may in the next place be brought on them and us too by the Turks, which is to be underſtood, an Enemy from a very far off as a little before.</p>
+            <p>Which ſaid Nation have or late penetrated themſelves far into <hi>Hungary,</hi> and will be hardly courted or compelled out again on any eaſie, or honourable terms for the Empire, but if they bring another Army in this Summer as 'tis ſaid they are preparing for; then they will hardly ever return to goe out again untill they have overrun <hi>Hungary</hi> and <hi>Germany</hi> as far as to the Gates, yea within the walls of <hi>Vienna,</hi> and thence to <hi>Lubick,</hi> and other Hance Towns on the Weſtern Sea with their Ships round into the ſaid Sea; as was once predicted by <hi>Noſtredamus,</hi> ſaying.</p>
+            <q>
+               <l>
+                  <hi>Through</hi> French-mens <hi>Diſcords and Neglect,</hi>
+               </l>
+               <l>
+                  <hi>A Way is made for</hi> Mahomet<hi>'s Sect:</hi>
+               </l>
+               <l>Siena<hi>'s Land and Sea ſhall bleed;</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Phocan <hi>Port full of Ships decreed.</hi>
+               </l>
+            </q>
+            <p>Then the Conteſt will not be ſo great between the Miniſters of the <hi>Church of England</hi> and the <hi>Nonconfermiſt Diſſenters;</hi> nor yet between the <hi>Proteſtants</hi> in general and the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> as between the <hi>Mahometans</hi> and the <hi>Chriſtians;</hi> when the venerable <hi>Muffty</hi> and <hi>Muſslman</hi> will dare to vie it with the haughty <hi>Cardinal</hi> and reverend <hi>Biſhop.</hi>
+            </p>
+            <p>For which many an unfortunate <hi>European</hi> Prince may thank, <hi>firſt,</hi> the preſent Empe<g ref="char:EOLhyphen"/>ror, who by his heavy Preſſures laid on the <hi>Proteſtants</hi> in <hi>Hungary,</hi> forcing them into Arms for their Juſt Rights, which gave the <hi>Turks</hi> an opportune Occaſion for the preſent Invaſion. <hi>Secondly,</hi> The <hi>French</hi> King for more than once enviting them to it. And <hi>Thirdly,</hi> The <hi>Pope,</hi> who adviſed the Emperor to reduce the <hi>Hungarians</hi> by Arms, rather than by an Amicable Compliance. And now to illuſtrate the probability of theſe things, with more of this kind, coming to paſs within a few years, take as followeth.</p>
+            <p n="1">1. <hi>Firſt,</hi> An ancient <hi>German</hi> Prophecy in the old <hi>Saxon,</hi> preſaging, <hi>firſt,</hi> the preſent <hi>French</hi> King's late Conqueſt; <hi>ſecondly,</hi> the <hi>Turks</hi> preſent Incurſion into <hi>Germany:</hi> ſaying, <hi>In the ſouth ſhall live a</hi> Wolf, <hi>who ſhall gnaſh down Towns into his thirſty Throat; but in his bloody Banquet ſhall Dye—Then out of the Eaſt ſhall come a Diſmal Black</hi> Dog, <hi>who like a Thief by Night ſhall enter into</hi> Germany, <hi>but in the Enterpriſe ſhall loſe one of his Limbs, and ſo depart with ſuch a yelping ſound as ſhall make all</hi> Aſia <hi>and</hi> Africa <hi>quake thereat; then he ſhall forſake his old Maſter, and chuſe him a new one.</hi> Of which more in the cloſe of the Treatiſe.</p>
+            <p n="2">2. A <hi>Second</hi> is a <hi>Turks</hi> Prophecy to his own <hi>Slave,</hi> who was a <hi>Lubicker</hi> Seaman, ta<g ref="char:EOLhyphen"/>ken by a <hi>Turk's</hi> Man of War, <hi>Anno</hi> 1658. or thereabouts: The <hi>Turk</hi> was a Doctor of Phyſick and Chyrurgeon, who took his ſaid new Slave one morning into his ſtudy in 1660. and there ſaid to him,—<hi>that ſoon after the year</hi> 1680. <hi>of Chriſtion account, the</hi> Turks <hi>Nation ſhould raiſe an innumerable Army to goe againſt</hi> Chriſtendom, <hi>who when come to the borders thereof, would divide into three parts, one to go on the right hand toward</hi> Muſcovy <hi>and</hi> Poland, <hi>another on the left toward the</hi> Alps <hi>and</hi> Switzerland, <hi>and the third right foreward toward</hi> Germany, <hi>which ſhould goe on conquering as far as near</hi> Lubick, <hi>where they ſhould be defeated, and I</hi> (ſaid he to his ſlave) <hi>ſhall be ſlain in the fight, and thou ſhalt live to ſee it, therefore when the fight is over, come thou into the field to look for me, whom thou ſhalt find dead among the ſlain, and cloathed with a violate colour gown as now I am, when thou haſt me lay me in my Mothers Boſome, which is all the ſervice I ſhall require of thee</hi>—ſo he diſmiſt him and ſent him to <hi>Lubick.</hi>
+            </p>
+            <p n="3">3. A <hi>Third</hi> thing is a mentioning of divers Prophetical but unuſual Viſions, Appari<g ref="char:EOLhyphen"/>tions, and Revelations made known to <hi>Chriſtopher Kotterus, Chriſtiana Ponatovia,</hi> and <hi>Nicholas Dabi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius,</hi> all perſons of known Integrity and well approved of by all the Mi<g ref="char:EOLhyphen"/>niſters that were baniſhed out of <hi>Bohemia</hi> by <hi>Fardinando</hi> 2 Emperour of <hi>Germany;</hi> when he expelled <hi>Frederick</hi> King thereof, for turning Proteſtant anno 1620. all which ſaid Viſions and Revelations were ſince printed in the Bohemian tongue, (all threatning
+<pb n="4" facs="tcp:97681:3"/>the Emperour, Empire, houſe of Auſtria, the Pope and Church of Rome, with ruin to all intents and purpoſes,) and is of late made Engliſh in a ſmall Volume, and of as ſmall a price, ſold at Mr. <hi>Paulets</hi> ſhop at the ſign or the <hi>Bible</hi> in <hi>Chancery-lane.</hi>
+            </p>
+            <p>Unto which book refer the reader—and then the ſeveral intelligences we have had of late years, relating what prodigious multitudes of Mice, ſwarms of Caterpillars, had invaded ſome parts of Germany, and the great flocks of flying Fowls, that like great clouds met and fought in the air, falling dead to the ground, all which muſt needs preſage ſome ſtrange things to befall thoſe parts, ſuch as the preſent incurſion of the Turks may be, who when they have pierced through thoſe parts, will then proceed and enter into <hi>France,</hi> whoſe mighty Monarch with his Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh Peers and Peſants, will be as fully rewarded for the cruel Maſſacres committed on the Hugonets there, about a hun<g ref="char:EOLhyphen"/>dred years ſince, and the cruelty uſed againſt the ſaid people there of late, and now—as the Emperour and houſe of <hi>Auſtria</hi> will have been a little before, for all their cruelty towards the foreſaid King of <hi>Bohemia,</hi> his progeny and Proteſtants, anno 1620. and ſince, and as the Pope &amp; Ieſuitical Crew will be in ſome time after, for all the Blood ſpilt by their means ſince the Reformation, in moſt places of Europe.</p>
+            <p>And whereas we in <hi>England</hi> have of late been, and now are again, engaged in (as is by many ſaid) a cauſleſs Perſecution of our Neighbours and Fellow-Subjects at home, God grant we be not as deeply engaged to ſuſtain the like Puniſhment with other Nati<g ref="char:EOLhyphen"/>ons abroad for the like Offences.</p>
+            <p n="4">4. In the next place take a few lines of <hi>Merlin</hi>'s Myſterious Prophecy on the fate of <hi>England</hi>'s Monarchy, for which he hath been ſo Renowned amongſt the Learned in all Ages ſince, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>The Standardbearer</hi> Wolf <hi>ſhall raiſe Troops, and environ</hi> Cornwall <hi>with his Tail; but a Souldier in a Cart ſhall withſtand him, who ſhall change the People into a Boar, and the Boar ſhall waſle the Provinces, but he ſhall be drowned in the deep of</hi> Severn.</p>
+            <figure>
+               <figDesc>flag with white wolf and fleur de lis</figDesc>
+            </figure>
+            <trailer>Finis coronat opus et mergit lupus.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Benj. Billingſley,</hi> at the Printing-Preſs under the <hi>Piazza</hi> of the <hi>Royal Exchange,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
